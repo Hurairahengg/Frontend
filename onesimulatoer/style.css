@@ -1,0 +1,72 @@
+.txt{
+    text-align: center;
+    font-size: 60px;
+    color:white;
+    font-family: 'Permanent Marker', cursive;
+    text-shadow:0px 0px 10px #fff,0px 0px 40px #614ad3;
+}
+body{
+background-color: black;
+}
+.wrapper
+{   
+    border: rgb(81, 33, 168) 1px solid;
+    margin: 0 auto;
+    height: 500px;
+    width: 1300px;
+    box-shadow:  10px 10px 100px 40px rgb(89, 0, 255);
+    
+} 
+#bt1{
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 100px;
+    height: 100px;
+    box-shadow:  10px 10px 30px 40px white;
+    border: none;
+    background-color: white;
+    position: absolute;
+
+}
+.key{
+    width: 110px;
+}
+#bt2{
+    margin-top: 100px;
+    margin-left: 580px;
+    width: 100px;
+    height: 100px;
+    box-shadow:  10px 10px 30px 40px white;
+    border: none;
+    background-color: white;
+    position: absolute  ;
+
+}
+.piano{
+    width: 110px;
+    height: 50px;
+    top: 50px;
+}
+#bt3{
+    margin-top: 100px;
+    margin-left: 1080px;
+    width: 100px;
+    height: 100px;
+    box-shadow:  10px 10px 30px 40px white;
+    border: none;
+    background-color: white;
+
+}
+.ctrl{
+    width: 110px;
+    height: 80px;
+    top: 50px;
+}
+.moresoon{
+    text-shadow:0px 0px 10px rgb(245, 98, 0),0px 0px 40px #ff5100;
+    color: rgb(255, 136, 0);
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 50px;
+}
